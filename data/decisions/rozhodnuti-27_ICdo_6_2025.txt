@@ -1,0 +1,579 @@
+Soud: Nejvyšší soud
+Spisová znaèka: 27 ICdo 6/2025
+Datum rozhodnutí: 22.07.2026
+Typ rozhodnutí: ROZSUDEK
+
+Heslo: Pøechodná (intertemporální) ustanovení, Jednatel, Péèe øádného hospodáøe, Úpadek
+Dotèené pøedpisy: § 68 pøedpisu è. 90/2012 Sb., § 66 odst. 1 písm. b) pøedpisu è. 90/2012 Sb., èl. II bod 7 pøedpisu è. 33/2020 Sb.
+Kategorie rozhodnutí: B
+
+
+MSPH 60 INS 612/2021
+160 ICm 439/2023
+27 ICdo 6/2025-161
+
+
+
+
+ÈESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+
+
+
+Nejvyšší soud Èeské republiky rozhodl v senátu sloeném z pøedsedy JUDr. Marka 
+Doleala a soudcù JUDr. Filipa Cileèka a JUDr. Jiøího Zavázala v právní vìci 
+alobce Mgr. Petra Broe, se sídlem v Praze 4, U Zátiší 545/3, PSÈ 147 00, 
+identifikaèní èíslo osoby 71471766, jako insolvenèního správce dlunice PRAGUE 
+DESIGN INTERIER s. r. o., zastoupeného Mgr. MUDr. Zdeòkem Kubicou, advokátem, 
+se sídlem v Praze 1, Soukenická 1090/14, PSÈ 110 00, proti alovanım 1) D. E. a 
+2) T. A., obìma zastoupenım Mgr. Davidem Satke, advokátem, se sídlem v Praze 2, 
+Myslíkova 284/32, PSÈ 120 00, o doplnìní pasiv, vedené u Mìstského soudu v 
+Praze pod sp. zn. 160 ICm 439/2023 jako incidenèní spor v insolvenèní vìci 
+dlunice PRAGUE DESIGN INTERIER s. r. o., se sídlem v Praze 10, Chudenická 
+1057/34, PSÈ 102 00, identifikaèní èíslo osoby 48113026, vedené u Mìstského 
+soudu v Praze pod sp. zn. MSPH 60 INS 612/2021, o dovolání alobce proti 
+rozsudku Vrchního soudu v Praze ze dne 19. 9. 2024, è. j. 160 ICm 439/2023, 101 
+VSPH 480/2024-105 (MSPH 60 INS 612/2021), takto:
+
+
+
+Rozsudek Vrchního soudu v Praze ze dne 19. 9. 2024, è. j. 16 ICm 439/2023, 101 
+VSPH 480/2024-105 (MSPH 60 INS 612/2021), jako i rozsudek Mìstského soudu v 
+Praze ze dne 21. 5. 2024, è. j. MSPH 160 ICm 439/2023-84 (MSPH 60 INS 
+612/2021), se ruší a vìc se vrací soudu prvního stupnì k dalšímu øízení.
+
+
+Odùvodnìní:
+I. Dosavadní prùbìh øízení
+[1]	Mìstskı soud v Praze (dále té jen „insolvenèní soud“) rozsudkem ze 
+dne 21. 5. 2024, è. j. 160 ICm 439/2023-84, zamítl alobu, jí se alobce 
+domáhal rozhodnutí, e alovaní jsou povinni spoleènì a nerozdílnì poskytnout 
+do majetkové podstaty PRAGUE DESIGN INTERIER s. r. o. (dále té jen „dlunice“) 
+14.090.678,55 Kè s (ve vıroku specifikovanım) pøíslušenstvím (vırok I.), a 
+rozhodl o náhradì nákladù øízení (vırok II.).  
+[2]	Insolvenèní soud vyšel (mimo jiné) z toho, e:
+1)	alovaní byli jednateli a souèasnì spoleèníky dlunice v období od 
+30. 1. 2014 do 18. 6. 2020. 
+2)	Dne 18. 1. 2021 bylo u insolvenèního soudu zahájeno insolvenèní 
+øízení dlunice pod sp. zn. MSPH 60 INS 612/2021. 
+3)	Usnesením ze dne 16. 3. 2021, è. j. MSPH 60 INS 612/2021-A-16, které 
+nabylo právní moci dne 14. 4. 2021, insolvenèní soud zjistil úpadek dlunice a 
+na její majetek prohlásil konkurs. 
+4)	alobce se domáhá po alovanıch poskytnutí plnìní do majetkové 
+podstaty dlunice ve vıši rozdílu mezi souhrnem dluhù (pøihlášenıch pohledávek) 
+a hodnotou majetkové podstaty, která je nulová, podle § 66 odst. 1 písm. b) 
+zákona è. 90/2012 Sb., o obchodních spoleènostech a drustvech (zákon o 
+obchodních korporacích), ve znìní úèinném od 1. 1. 2021 (dále té jen „z. o. 
+k.“).     
+5)	Podle alobních tvrzení èiní souhrn pøihlášenıch pohledávek 
+14.090.678,55 Kè. 
+6)	V období od 16. 1. 2018 do 5. 6. 2019 mìla dlunice odeslat na úèet 
+Bezedné misky s. r. o., identifikaèní èíslo osoby 01915398, jejími jednateli a 
+spoleèníky byli alovaní, celkem 4.460.000 Kè, èím mìli alovaní porušit 
+povinnost péèe øádného hospodáøe a pøispìt k úpadku dlunice.   
+7)	V období od 25. 4. 2019 do 25. 5. 2020 mìla dlunice odeslat 
+alovanému 1) celkem 207.592 Kè (14.828 Kè za mìsíc jako „nájem D. E.“) a 
+alovanému 2) celkem 389.872 Kè (27.848 Kè za mìsíc jako „nájem T. A.“). Platby 
+nesouvisely s podnikáním dlunice, byly poukazovány „ve prospìch osobních 
+závazkù alovanıch“, alovaní jejich realizací porušili povinnost péèe øádného 
+hospodáøe a pøispìli k úpadku dlunice.    
+8)	V období od roku 2015 do 18. 6. 2020 mìla dlunice provést platby „v 
+restauracích, golfy, ubytování, letenky, èlenské pøíspìvky ve fitness centru 
+apod.“ ve vıši celkem 4.570.501,57 Kè. Platby nesouvisely s podnikáním 
+dlunice, alovaní jejich realizací porušili povinnost péèe øádného hospodáøe a 
+pøispìli k úpadku dlunice. 
+[3]	Na takto ustaveném základì insolvenèní soud uzavøel, e „ústavnì 
+konformním vıkladem respektujícím zákaz retroaktivity a zákaz denegatio 
+iustitiae lze dospìt k tomu, e § 66 odst. 1 písm. b) z. o. k. lze vyuít jen 
+tehdy, pøispìl-li èlen statutárního orgánu obchodní korporace k jejímu úpadku 
+porušením právních povinností po 1. 1. 2021“. V opaèném pøípadì je nutné vyuít 
+§ 68 z. o. k., ve znìní úèinném do 31. 12. 2020, bez ohledu na datum zahájení 
+insolvenèního øízení, v jeho rámci má bıt pøíslušná incidenèní aloba 
+projednána. Pøechodné ustanovení v èl. II bodu 7 zákona è. 33/2020 Sb., kterım 
+se mìní zákon è. 90/2012 Sb., o obchodních spoleènostech a drustvech (zákon o 
+obchodních korporacích), ve znìní zákona è. 458/2016 Sb., a další související 
+zákony (dále té jen „novela“), „upravuje postup soudu v insolvenèních øízeních 
+zahájenıch pøed 1. 1. 2021, èím se vyèerpává smysl jeho existence. Nelze z nìj 
+dovozovat, e by soudu zakazovalo v insolvenèních øízeních zahájenıch po 1. 1. 
+2021 vyuívat § 68 z. o. k. (resp. § 62 z. o. k.), ve znìní úèinném do 31. 12. 
+2020“.  
+[4]	alobcem tvrzenı skutkovı základ jím alovaného nároku odpovídá 
+skutkové podstatì § 66 odst. 1 písm. b) z. o. k. alované jednání však nelze 
+subsumovat pod citované ustanovení, nebo to bylo vtìleno do zákona o 
+obchodních korporacích novelou s úèinností od 1. 1. 2021 a alovaní se mìli 
+jednání dopustit jako jednatelé dlunice pøed uvedenım datem. Opaènı postup by 
+podle insolvenèního soudu prolomil ústavní zákaz zpìtné úèinnosti právních 
+norem (viz nález Ústavního soudu ze dne 13. 6. 2002, sp. zn. III. ÚS 611/01). 
+[5]	alovaní nemohli znát právní úpravu zakládající jejich odpovìdnost, 
+nebo tato úprava v dobì, kdy jednali, nebyla v úèinnosti (ani v platnosti). 
+Znìní § 66 odst. 1 písm. b) z. o. k. neodpovídá obsahovì úpravì obsaené v § 68 
+odst. 1 z. o. k. ve znìní úèinném do 31. 12. 2020. „Novelizovaná úprava“ je 
+podle insolvenèního soudu „jiná, pro alované pøísnìjší, jeliko mimo jiné (i) 
+opouští princip ruèení a nahrazuje ho ‚pøímou‘ povinností statutárního orgánu 
+vydat dluníku pasiva èi (ii) rozšiøuje zpùsob spáchání jednání, je lze od 1. 
+1. 2021 alovat dle § 66 odst. 1 písm. b) z. o. k.“   
+[6]	Vrchní soud v Praze k odvolání alobce ve vıroku oznaèenım rozsudkem 
+rozhodnutí insolvenèního soudu potvrdil (první vırok) a rozhodl o náhradì 
+nákladù odvolacího øízení (druhı vırok).
+[7]	Odvolací soud dospìl k závìru, podle nìho „by bylo insolvenèní 
+øízení dlunice zahájeno dne 18. 1. 2021 (tedy za úèinnosti novely) a rovnì 
+byl na majetek dlunice prohlášen konkurs, nebyl naplnìn hmotnìprávní 
+pøedpoklad pro zaloení odpovìdnosti alovanıch, tedy e pøispìli porušením 
+svıch povinností èlenù statutárního orgánu k úpadku dlunice (øešenému 
+konkursem) a po 1. 1. 2021“. Nebyli-li alovaní po tomto datu jednateli 
+dlunice, nemohli své povinnosti vyplıvající z vıkonu funkce èlena statutárního 
+orgánu porušit a tím pøispìt k úpadku dlunice.      
+[8]	Odkazuje na vıklad o nepravé zpìtné úèinnosti pøijatı Nejvyšším 
+soudem v usnesení ze dne 24. 2. 2021, sen. zn. 29 NSÈR 38/2020, uveøejnìném pod 
+èíslem 88/2021 Sbírky soudních rozhodnutí a stanovisek (dále té jen „R 
+88/2021“), má odvolací soud za to, e alobcem tvrzenı skutek nelze subsumovat 
+pod § 66 odst. 1 písm. b) z. o. k., nebo toto ustanovení bylo inkorporováno do 
+zákona o obchodních korporacích novelou úèinnou od 1. 1. 2021, kterou byla mimo 
+jiné zmìnìna odpovìdnost èlenù statutárních orgánù korporací v úpadku. Novela 
+vıznamnì mìní úpravu dùsledkù, je mohou postihnout èleny statutárních orgánù v 
+pøípadì úpadku obchodní korporace a zavádí v § 66 odst. 1 písm. b) z. o. k. 
+alobu na doplnìní pasiv, je nahrazuje dosavadní ruèení podle § 68 z. o. k., 
+ve znìní úèinném do 31. 12. 2020, a „souèasnì pøesunuje (z § 62 z. o. k. ve 
+znìní úèinném do 31. 12. 2020) a èásteènì mìní úpravu povinnosti èlena 
+statutárního orgánu vydat prospìch z vıkonu funkce [§ 66 odst. 1 písm. a) z. o. 
+k.]“. 
+[9]	Nedostatkem právní úpravy zákona o obchodních korporacích úèinného 
+do 31. 12. 2020 byla podle odvolacího soudu její roztøíštìnost do více øízení, 
+pøièem v kadém z nich soud znovu a zvláš posuzoval, zda dotèenı èlen 
+statutárního orgánu porušil své povinnosti pøi vıkonu funkce a zda to bylo 
+jednou z pøíèin úpadku obchodní korporace (§ 62, § 63, § 64 a § 68 z. o. k., ve 
+znìní úèinném do 31. 12. 2020). Úmyslem zákonodárce vıslovnì deklarovanım i v 
+dùvodové zprávì k návrhu novely bylo proto zavést jediné øízení podle § 66 z. 
+o. k., v nìm soud vyøeší otázku, zda èlen statutárního orgánu porušil své 
+povinnosti a toto porušení pøispìlo k úpadku obchodní korporace. Cílem 
+uvedeného øízení bylo zjednodušit a zefektivnit stávající øešení.
+[10]	Protoe alobce „alobní skutek vymezil jednoznaènì jako nárok dle 
+§ 66 odst. 1 písm. b) z. o. k., jen (jak vıše uvedeno) nelze z hlediska èasové 
+pùsobnosti zákona pouít, odvolací námitky alobce nebyly schopny zvrátit zcela 
+správné skutkové i právní závìry insolvenèního soudu“.      
+II. Dovolání a vyjádøení k nìmu
+[11]	Proti rozsudku odvolacího soudu podal alobce dovolání, jeho 
+pøípustnost opírá o § 237 zákona è. 99/1963 Sb., obèanského soudního øádu (dále 
+té jen „o. s. ø.“), maje za to, e napadené rozhodnutí závisí na vyøešení 
+právních otázek, které „nebyly dosud dovolacím soudem øešeny, zejména z dùvodu, 
+e se tıkají relativnì nové právní úpravy úèinné od 1. 1. 2021“. 
+[12]	Jedná se o otázky, zda:
+1)	„mùe bıt § 66 odst. 1 z. o. k. (ve znìní úèinném od 1. 1. 2021) 
+aplikován na jednání èlena statutárního orgánu obchodní korporace, k nìmu 
+došlo pøed úèinností tohoto ustanovení, pokud se jeho dùsledky (úpadek a 
+insolvenèní øízení) projevily, resp. vznik jeho odpovìdnosti za tato minulá 
+porušení nastal a po jeho úèinnosti, a to rozhodnutím insolvenèního soudu o 
+zpùsobu øešení úpadku insolvenèního dluníka“,
+2)	„je pøípustné nepouít ádnı právní institut pro postih v rámci 
+odpovìdnosti èlena statutárního orgánu za kvalifikované porušení jeho 
+povinností vedoucích k úpadku obchodní korporace (zde konkrétnì za porušení 
+povinnosti jednat s péèí øádného hospodáøe, která existovala v právní úpravì 
+ji pøed 1. 1. 2021) v pøípadech, kdy pøechodná ustanovení novely vyluèují 
+pouití staré (ji neúèinné) právní úpravy a nová právní úprava by pøi 
+správnosti závìru o nepøípustné pravé retroaktivitì nebyla aplikovatelná na 
+minulá jednání, pøestoe by jejich následek a s ním i vznik odpovìdnosti 
+nastaly a za úèinnosti nové právní úpravy“, a 
+3)	„má bıt pøi posuzování pøípustnosti retroaktivity nového zákona (zde 
+§ 66 z. o. k.), a to nikoli na jednání, ale pouze na jeho dùsledky, zohlednìn 
+zájem na ochranì majetkovıch práv osob (dluníka a vìøitelù) a proporcionalita 
+tohoto zásahu ve vztahu k ochranì právní jistoty a legitimního oèekávání takto 
+pøípadnì postieného èlena statutárního orgánu obchodní 
+korporace“.                  
+[13]	Dovolatel se shoduje s odvolacím soudem v tom, e zákonnou monost 
+postihu èlena statutárního orgánu za porušení povinnosti ruèením podle § 68 z. 
+o. k., ve znìní úèinném do 31. 12. 2020, nahradila novela jinou zákonnou 
+moností postihu za obsahovì stejné deliktní jednání tıch osob, a to zavedením 
+institutu aloby na doplnìní pasiv podle § 66 odst. 1 písm. b) z. o. k. Podle 
+dovolatele pøichází v úvahu monost aplikace jedné èi druhé z tìchto právních 
+úprav èasovì na sebe navazujících. Pøi vylouèení obou tìchto moností by bylo 
+nutné vycházet z obecnıch principù spravedlnosti a proporcionality, vèetnì 
+monosti uplatnìní obecné odpovìdnosti za porušení povinnosti. Podle dovolatele 
+se jednání alovanıch mající za následek pøispìní/neodvracení úpadku bude øídit 
+právní úpravou úèinnou do 31. 12. 2020, podle které bylo toto jednání stejnì 
+protiprávní, ale právní dùsledky, které nastaly a po úèinnosti novely, se ji 
+budou øídit právní úpravou úèinnou od 1. 1. 2021. 
+[14]	Pøi uplatnìní jazykového vıkladu pøechodného ustanovení v èl. II 
+bodu 7 novely podle dovolatele nic nebrání pouití § 66 odst. 1 písm. b) z. o. 
+k. pro insolvenèní øízení zahájená po 1. 1. 2021, nebo se jedná o úèinné a 
+platné znìní zákona, jeho pouití (èasovou pùsobnost) pøechodná ustanovení 
+nevyluèují. Odvolací soud jde nad rámec jazykového vıkladu, kdy tvrdí, e je 
+nutné pouít právní úpravu úèinnou do 31. 12. 2020 (§ 68 z. o. k.) i v øízeních 
+zahájenıch po 1. 1. 2021, pokud jednání probíhalo pøed tímto datem. Jazykové 
+znìní ani logickı vıklad pøechodného ustanovení však tento závìr odvolacího 
+soudu nepodporují.      
+[15]	Logickım vıkladem pøechodného ustanovení lze podle dovolatele 
+dovodit, e øeší vıslovnì jen insolvenèní øízení zahájená pøed 1. 1. 2021. 
+Zákonodárce pøedpokládal, e øízení zahájená po tomto datu budou posuzována 
+podle právní úpravy úèinné od 1. 1. 2021. Závìr odvolacího soudu, e § 68 z. o. 
+k., ve znìní úèinném do 31. 12. 2020, se pouije bez ohledu na datum zahájení 
+insolvenèního øízení, je nelogickı, nebo „odporuje logickému rozlišení èasové 
+pùsobnosti podle data zahájení øízení, kterou zákonodárce nepochybnì 
+zvolil“.              
+[16]	Insolvenèní øízení bylo zahájeno po 1. 1. 2021, neuplatní se tedy 
+pøechodné ustanovení v èl. II bod 7 novely a není moná aplikace právní úpravy 
+úèinné do 31. 12. 2020, tedy postih z titulu ruèení podle § 68 z. o. k. Za 
+stavu, kdy by nebylo moné aplikovat ani právní úpravu úèinnou od 1. 1. 2021, 
+nastala by situace ústavnì nepøípustného odepøení práva na soudní ochranu, v 
+ní by vìøitelé ani insolvenèní správce nemìli ádnı úèinnı nástroj jak vymáhat 
+nároky z titulu odpovìdnosti bıvalıch èlenù statutárního orgánu za jejich 
+jednání vedoucí k úpadku obchodní korporace. Takovı vısledek zákonodárce 
+nezamıšlel. Naopak zákonodárce protiprávní jednání èlenù statutárního orgánu 
+dlunice chtìl postihovat kontinuálnì, jak podle právní úpravy úèinné do 31. 
+12. 2020, tak i od 1. 1. 2021. Nové znìní § 66 z. o. k. podle dovolatele pouze 
+mìní zpùsob, jakım se odpovìdnost realizuje, tedy místo ruèení zavádí institut 
+doplnìní pasiv, povinnost se vymáhá v incidenèním øízení a odlišná je rovnì 
+aktivnì vìcnì legitimovaná osoba. Nic se však nemìní na tom, e èlenové 
+statutárního orgánu, kteøí se dopustili porušení povinností, jsou povinni 
+finanènì kompenzovat vìøitelùm neuhrazené dluhy spoleènosti. Dovolatel je 
+pøesvìdèen, e lze se zpìtnou úèinností zpøísòovat následky a postih, pokud se 
+jedná 
+o právnì-odpovìdnostní vztahy soukromoprávní.        
+[17]	Právní úprava úèinná do 31. 12. 2020 podle dovolatele zakládala 
+odpovìdnost èlenù statutárních orgánù za protiprávní jednání vedoucí k úpadku 
+obchodní korporace, které bylo vymezeno ménì pøísnì, a to jako neuèinìní krokù 
+k odvrácení úpadku. Takové jednání v sobì jednoznaènì zahrnuje i pøispìní k 
+úpadku, jde tak o kategorii širší, a to jak z hlediska jejího zákonného 
+vymezení, tak i z hlediska konkrétních skutkovıch tvrzení ohlednì pøivedení 
+dluníka k úpadku. alobou tvrzená porušení povinností alovanımi – pøevody 
+majetku (penìz) bez øádného protiplnìní na spøíznìnı subjekt a vyuívání 
+prostøedkù dlunice pro soukromé úèely – pøedstavují souèasnì jak delikt 
+sankcionovanı podle § 68 z. o. k., ve znìní úèinném do 31. 12. 2020, tak i 
+delikt podle § 66. z. o. k, ve znìní úèinném od 1. 1. 2021. Právní úprava 
+úèinná od 1. 1. 2021 proto podle dovolatele nepùsobí zpìtnì na protiprávní 
+jednání, ale upravuje pouze právní následky vzniklé a realizované po její 
+úèinnosti. Novela mìla za cíl zvıšit odpovìdnost èlenù statutárních orgánù za 
+úpadek obchodní korporace a zlepšit ochranu vìøitelù. Aplikace této novely na 
+situace, kdy právní následky nastaly a po 1. 1. 2021, odpovídá tomuto 
+úèelu.                    
+[18]	Za nepøípadnı povauje dovolatel odkaz odvolacího soudu na R 
+88/2021, které øeší odlišnou otázku, a to pøekáku povolení oddluení, která 
+nemá sankèní povahu a nejedná se o následek jakéhokoli porušení povinnosti ze 
+strany dlunice.  
+[19]	Dovolatel namítá, e odvolací soud mìl pøi posuzování pøípustnosti 
+retroaktivity § 66 z. o. k., a to nikoli na jednání, ale na jeho dùsledky, 
+provést test proporcionality mezi dvìma v konfliktu stojícími právy. Jde o 
+právo alovanıch na právní jistotu a legitimní oèekávání, e bude jejich 
+jednání posuzováno podle § 68 z. o. k., ve znìní úèinném do 31. 12. 2020, které 
+upravovalo ménì pøísné dùsledky jejich jednání, i kdy materiální dopad do 
+jejich majetkové sféry mùe bıt v praxi stejnı. Na druhé stranì stojí právo 
+vìøitelù a dlunice na ochranu jejich majetkovıch práv a tím i objektivní 
+nemonost uspokojit z nulové hodnoty majetku dlunice jejich oprávnìné 
+pohledávky. V rámci testu proporcionality mìl soud zkoumat, zda je aplikace § 
+66 z. o. k. vhodná k ochranì práv dlunice a vìøitelù, zda existuje jinı 
+prostøedek, kterı by stejnì úèinnì chránil práva vìøitelù, ale ménì zasahoval 
+do práv alovanıch, a zda je vybranı prostøedek pøimìøenı dotèenému základnímu 
+právu, tedy nezatìuje nositele základního práva nadmìrnì.                  
+[20]	Dovolatel navrhuje, aby Nejvyšší soud zrušil rozsudek odvolacího 
+soudu, jako i insolvenèního soudu, a vìc vrátil insolvenènímu soudu k dalšímu 
+øízení.  
+[21]	alovaní ve vyjádøení k dovolání povaují rozhodnutí odvolacího 
+soudu za „zákonné a správné“ a navrhují, aby dovolací soud dovolání odmítl, 
+pøípadnì zamítl.   
+    III.  Pøípustnost dovolání 
+[22]	Dovolání bylo podáno vèas, osobou oprávnìnou, splòující podmínku 
+podle § 241 odst. 1 o. s. ø.; dovolací soud se proto zabıval jeho pøípustností. 
+[23]	Dovolání je podle § 237 o. s. ø. pøípustné pro øešení dovolatelem 
+pøedloené otázky vıkladu pøechodného ustanovení èl. II bodu 7 novely, která v 
+rozhodovací praxi Nejvyššího soudu dosud nebyla vyøešena. 
+IV. Dùvodnost dovolání
+[24]	Podle § 68 z. o. k., ve znìní úèinném do 31. 12. 2020, soud mùe na 
+návrh insolvenèního správce nebo vìøitele obchodní korporace rozhodnout, e 
+èlen nebo bıvalı èlen jejího statutárního orgánu ruèí za splnìní jejích 
+povinností, jestlie
+a)	bylo rozhodnuto, e obchodní korporace je v úpadku, a
+b)	èlen nebo bıvalı èlen statutárního orgánu obchodní korporace vìdìli 
+nebo mìli a mohli vìdìt, e je obchodní korporace v hrozícím úpadku podle 
+jiného právního pøedpisu, a v rozporu s péèí øádného hospodáøe neuèinili za 
+úèelem jeho odvrácení vše potøebné a rozumnì pøedpokladatelné (odstavec 1). 
+Odstavec 1 se nepouije na èlena nebo bıvalého èlena statutárního orgánu 
+obchodní korporace, kteøí byli do funkce prokazatelnì ustaveni za úèelem 
+odvrácení úpadku nebo jiné nepøíznivé hospodáøské situace obchodní korporace a 
+svou funkci vykonávali s péèí øádného hospodáøe (odstavec 2).
+[25]	Podle § 66 z. o. k., ve znìní úèinném od 1. 1. 2021 (po novele), 
+pøispìl-li èlen statutárního orgánu porušením svıch povinností k úpadku 
+obchodní korporace a bylo-li v insolvenèním øízení ji rozhodnuto o zpùsobu 
+øešení úpadku obchodní korporace, insolvenèní soud na návrh insolvenèního 
+správce 
+a)	rozhodne o povinnosti tohoto èlena vydat do majetkové podstaty 
+prospìch získanı ze smlouvy o vıkonu funkce, jako i pøípadnı jinı prospìch, 
+kterı od obchodní korporace obdrel, a to a za období 2 let zpìt pøed 
+zahájením insolvenèního øízení, jedná-li se o insolvenèní øízení zahájené na 
+návrh jiné osoby ne dluníka; není-li vydání prospìchu moné, nahradí jej èlen 
+statutárního orgánu v penìzích, a
+b)	byl-li na majetek obchodní korporace prohlášen konkurs, mùe také 
+rozhodnout, e tento èlen je povinen poskytnout do majetkové podstaty plnìní a 
+do vıše rozdílu mezi souhrnem dluhù a hodnotou majetku obchodní korporace; pøi 
+urèení vıše plnìní insolvenèní soud pøihlédne zejména k tomu, jakou mìrou 
+pøispìlo porušení povinnosti k nedostateèné vıši majetkové podstaty (odstavec 
+1).
+[26]	Podle èl. II bodu 7 novely bylo-li insolvenèní øízení zahájeno 
+pøede dnem nabytí úèinnosti tohoto zákona, pouijí se pro toto øízení 
+ustanovení § 62 a 64 a § 68 zákona è. 90/2012 Sb., ve znìní úèinném pøede dnem 
+nabytí úèinnosti tohoto zákona.
+[27]	Dùvodová zpráva k návrhu zákona è. 33/2020 Sb. (snìmovní tisk èíslo 
+207, Poslanecká snìmovna Parlamentu Èeské republiky, 8. volební období 2017–
+2021; dále té jen „dùvodová zpráva“) jako cíl úpravy navrhované v § 63 a 66 
+z. o. k. spatøovala odstranìní stávajících nedostatkù právní úpravy, jako jsou 
+nedùvodné rozdíly mezi jednotlivımi skutkovımi podstatami tzv. úpadkovıch 
+deliktù, vıkladové nejasnosti, duplicita, komplikovanost nìkterıch institutù, 
+jako i nedostatky z hlediska systematiky právní úpravy.
+[28]	Cílem navreného § 66 z. o. k. mìlo bıt zjednodušení a zefektivnìní 
+stávajícího øešení. Sankce, èi obecnì povinnosti, je mohou èlena statutárního 
+orgánu, jako i další osoby, postihnout v pøípadì úpadku obchodní korporace, 
+jsou podle dùvodové zprávy ve stávající právní úpravì upraveny zejména v § 62 
+a 68 z. o. k. Jedná se o následující instituty: (i) vylouèení z vıkonu funkce 
+(§ 63 a 64), (ii) povinnost vydat prospìch ze smlouvy o vıkonu funkce u 
+vìøitelskıch insolvenèních návrhù (§ 62) a (iii) ruèení za splnìní povinností 
+obchodní korporace (§ 68). Ve všech pøípadech se zkoumají shodné skutkové 
+okolnosti, pøesto je pro nì stanoven odlišnı procesní reim. Takové øešení je 
+zbyteènì nákladné pro soudy i úèastníky øízení.
+[29]	Navrhované øešení mìlo podle dùvodové zprávy spoèívat v tom, e 
+vıše uvedená øízení budou pøedmìtem jediného øízení (kromì diskvalifikaèního – 
+viz vıše), které bude incidenèním sporem podle § 159 a násl. zákona è. 182/2006 
+Sb., o úpadku a zpùsobech jeho øešení (insolvenèní zákon), a ve kterém bude 
+insolvenèní soud jako pøedbìnou otázku zkoumat, zda èlenové statutárního 
+orgánu pøispìli porušením svıch povinností k úpadku obchodní korporace. Tím 
+odpadnou procesní nesnáze, které vyvolávala stávající úprava. Øízení se 
+navrhuje koncipovat jako návrhové, s tím, e jedinou oprávnìnou osobou k návrhu 
+bude insolvenèní správce. Právì jeho osoba je v insolvenèním øízení nejlépe 
+obeznámena se stavem obchodní korporace a bude mít monost snadno opatøit 
+podklady pro návrh. Zároveò je tato osoba v úzkém kontaktu s vìøiteli, jejich 
+zájmy je povinna chránit, podnìty tedy mùe získávat i od nich. 
+[30]	Jak vyplıvá z vıše uvedeného, skutková podstata, e èlen 
+statutárního orgánu „pøispìl porušením svıch povinností k úpadku obchodní 
+korporace“, nahradí dosavadní skutkové podstaty v jednotlivıch pøípadech. 
+Konkrétnì stávající právní úprava postihuje pøípady, kdy èlen orgánu neuèinil 
+vše potøebné a rozumnì pøedpokladatelné za úèelem odvrácení úpadku, vıkon jeho 
+funkce s pøihlédnutím ke všem okolnostem vedl k úpadku, nebo e jeho dosavadní 
+jednání zøejmì pøispìlo k úpadku. Takové rozlišování však vyvolává nìkteré 
+nedùvodné rozdíly, jako i vıkladové nejasnosti. Tak napøíklad zatímco v 
+pøípadì diskvalifikace v insolvenèním øízení souèasnıch èlenù je tøeba, aby 
+vıkon funkce vedl k úpadku (§ 64 odst. 1 z. o. k.), u èlenù bıvalıch postaèí, 
+pokud k úpadku zøejmì pøispìl. V druhém pøípadì tak mùe bıt vıkon funkce pouze 
+nìkterou z více podmínek vzniku úpadku, co úpravu èiní neodùvodnìnì pøísnìjší, 
+pøestoe by podmínky mìly bıt v obou pøípadech stejné.
+[31]	Stávající problematická úprava ruèení èlenù orgánù pøi úpadku 
+obchodní korporace obsaená v § 68 z. o. k. mìla bıt upravena po vzoru tzv. 
+aloby na doplnìní pasiv známé z francouzské úpravy ji od roku 1967.
+[32]	Vıhrady proti stávajícímu znìní § 68 z. o. k. jsou podle dùvodové 
+zprávy mnohé. Za prvé je mu vytıkána nepropracovanost z hlediska procesní 
+stránky vìci (nejedná se o incidenèní spor, co znamená, e spor tıkající se 
+ruèení mùe skonèit a po skonèení konkursu, respektive po zániku obchodní 
+korporace – napøíklad i pro obstrukce ze strany èlena orgánu – a konstituování 
+ruèení v takové chvíli ji není z dùvodu jeho akcesority moné). Jedná se 
+(podle vìtšinového názoru právní doktríny) o institut slouící k uspokojení 
+majetkovıch zájmù jednotlivıch vìøitelù, pøestoe je ji vedeno øízení o 
+kolektivním øešení jejich nárokù. To mùe vést k velmi nespravedlivım 
+vısledkùm: vdy bude zvıhodnìn vìøitel, kterı bude pøíslušnım èlenem orgánu 
+uspokojen jako první; u ostatních vìøitelù hrozí, e se svého práva nebudou 
+moci fakticky domoci (nedostatek majetku na stranì èlena orgánu). Pøestoe se 
+zbıvající vìøitelé budou moci ve vyšší míøe (o to, co získal vìøitel od èlena 
+statutárního orgánu) uspokojit z majetkové podstaty obchodní korporace, 
+majetkové uspoøádání nebude ideální; nejrychlejší vìøitel je oproti zbıvajícím 
+vìøitelùm stále zvıhodnìn (na rozdíl od situace, kdy by plnìní od èlena 
+statutárního orgánu pøipadlo do majetkové podstaty upadnuvší obchodní 
+korporace). Vìøitel také vùbec nemusí svou pohledávku pøihlašovat v 
+insolvenèním øízení a mùe bez ohledu na toto kolektivní øízení ádat pro sebe 
+uspokojení na ruèiteli. To se jeví v rozporu s úèelem jednak insolvenèního 
+øízení (kolektivní uspokojení na pomìrném principu), jednak se samotnou 
+koncepcí § 68, která stojí na prolomení majetkové samostatnosti obchodní 
+korporace. Koneènì úprava § 68 z. o. k. bıvá kritizována i pro pøílišnou 
+tvrdost vùèi èlenùm orgánù. 
+[33]	Navrhuje se tedy – s nezbytnou adaptací èeskému právnímu øádu – 
+pøevzít institut známı z francouzského obchodního práva, tzv. alobu na 
+doplnìní pasiv (franc. La responsabilité pour insuffisance d'actif, døíve 
+l’action en comblement de passif, èl. L 651-1 a násl. Code de commerce). Shodnì 
+se stávající úpravou je úèelem tohoto institutu poskytnout vìøitelùm obchodní 
+korporace dodateèné prostøedky na uspokojení jejich pohledávek, kterého se jim 
+v dùsledku porušení povinností èleny statutárního orgánu nedostává. Podstatou 
+aloby na doplnìní pasiv je, e bylo-li rozhodnuto o øešení úpadku obchodní 
+korporace konkursem, jsou èlenové statutárního orgánu (souèasní, bıvalí a 
+faktiètí) povinni na základì rozhodnutí soudu doplnit vlastními prostøedky 
+nedostateènı majetek spoleènosti. Vymezení pùsobnosti navrhovaného § 66 vychází 
+z francouzského øešení – dopadá v zásadì na všechny právnické osoby 
+vykonávající podnikatelskou èinnost a jen na likvidaèní zpùsob øešení úpadku. 
+Osoby, kterım mùe bıt povinnost uloena, jsou jednak (bıvalí) èlenové 
+statutárního orgánu a osoby v obdobném postavení a dále tzv. faktiètí a stínoví 
+vedoucí (srov. navrhovanı § 69 odst. 2).
+[34]	 K pøechodnému ustanovení k novì navrené právní úpravì dùvodová 
+zpráva uvedla, e zmìnu podmínek v § 62 a 68 z. o. k. se navrhuje z dùvodu 
+ochrany legitimního oèekávání a právní jistoty aplikovat a v pøípadech, kdy 
+bude insolvenèní øízení zahájeno po dni nabytí úèinnosti tohoto zákona.
+[35]	Judikatura Nejvyššího soudu je ustálena na závìrech, podle kterıch: 
+1)	Novı právní pøedpis, kterı øeší stejnı právní institut jinak (zcela 
+nebo jen zèásti) ne dosavadní právní úprava, nemusí mít – obecnì vzato – na 
+právní vztahy, které vznikly pøed jeho úèinností, ádnı vliv. Takováto situace 
+nastává, stanoví-li novı právní pøedpis, e se jím øídí jen právní vztahy, 
+které vznikly po jeho úèinnosti, a e tedy právní vztahy, vzniklé pøed jeho 
+úèinností, se vèetnì všech práv a nárokù øídí dosavadními pøedpisy, i kdy tato 
+práva a nároky vzniknou a po úèinnosti nového právního pøedpisu. Obvykle však 
+má novı právní pøedpis vliv i na právní vztahy, které vznikly pøed jeho 
+úèinností; v takovémto pøípadì nastává tzv. zpìtná úèinnost (retroaktivita) 
+nového právního pøedpisu (srov. usnesení Nejvyššího soudu ze dne 22. 10. 2019, 
+sen. zn. 29 ICdo 149/2018, ze dne 18. 4. 2000, sp. zn. 21 Cdo 2525/99, 
+uveøejnìné pod èíslem 34/2001 Sbírky soudních rozhodnutí a stanovisek, èi 
+rozsudek Nejvyššího soudu ze dne 24. 8. 2020, sp. zn. 27 Cdo 1916/2019, a v 
+nich citovanou judikaturu). 
+2)	Právní teorie rozeznává zpìtnou úèinnost (retroaktivitu) pravou a 
+nepravou. O pravou zpìtnou úèinnost (retroaktivitu) jde tehdy, jestlie se 
+novım právním pøedpisem má øídit vznik právního vztahu a nárokù úèastníkù z 
+tohoto vztahu také v pøípadì, kdy právní vztah nebo nároky z nìj vyplıvající 
+vznikly pøed úèinností nového právního pøedpisu [srov. rozsudek Nejvyššího 
+soudu ze dne 30. 9. 2005, sp. zn. 29 Odo 908/2003, uveøejnìnı pod èíslem 
+35/2006 Sbírky soudních rozhodnutí a stanovisek (dále té jen „R 35/2006“), k 
+jeho závìrùm se pøihlásil Nejvyšší soud v usnesení ze dne 30. 11. 2017, sen. 
+zn. 29 NSÈR 14/2015, uveøejnìném pod èíslem 25/2019 Sbírky soudních rozhodnutí 
+a stanovisek].
+3)	Nepravá zpìtná úèinnost (retroaktivita) znamená, e novım právním 
+pøedpisem se sice mají øídit i právní vztahy, vzniklé pøed jeho úèinností, 
+avšak a ode dne jeho úèinnosti; samotnı vznik tìchto právních vztahù a nároky 
+z tìchto vztahù vzniklé pøed úèinností nového právního pøedpisu, se spravují 
+dosavadní právní úpravou (srov. opìt R 35/2006). 
+[36]	Shodnım zpùsobem vyloil pojmy pravá a nepravá úèinnost 
+(retroaktivita) také Ústavní soud, kterı zdùraznil, e: 
+1)	Pravá retroaktivita „zahrnuje v podstatì dvì odlišné situace“, a to 
+za prvé „stav, e nová úprava dávala vznik (novım právním) vztahùm pøed její 
+úèinností za podmínek, které teprve dodateènì stanovila“, a za druhé „novela 
+mùe mìnit právní vztahy vzniklé podle staré právní úpravy, a to ještì pøed 
+úèinností nového zákona“. Pro pravou retroaktivitu tudí platí, e lex 
+posterior ruší (neuznává) právní úèinky v dobì úèinnosti legis prioris, 
+popøípadì vyvolává nebo spojuje práva a povinnosti subjektù s takovımi 
+skuteènostmi, je v dobì úèinnosti legis prioris nemìly povahu právních 
+skuteèností. V pøípadì retroaktivity nepravé „novı zákon sice nezakládá 
+právních následkù pro minulost, avšak buï povyšuje minulé skuteènosti za 
+podmínku budoucího právního následku (prostá vıluènost), nebo modifikuje pro 
+budoucnost právní následky podle døívìjších zákonù zaloené (…). Nepravé zpìtné 
+pùsobení zákona pouze znamená, e novı zákon zachycuje (právnì kvalifikuje) 
+minulé skuteènosti nebo e se dotıká (modifikuje, ruší) exitujících právních 
+následkù, tj. na skutkové podstaty je zaloivší váe pro budoucnost jiná práva 
+a jiné povinnosti ne zákonodárství dosavadní. Jde zde tudí o zásah nového 
+zákona jednak do pøedchozích skuteèností, jednak do tzv. práv nabytıch“ (srov. 
+nález pléna Ústavního soudu ze dne 4. 2. 1997, sp. zn. Pl. ÚS 21/96, dále té 
+jen „Pl. ÚS 21/96“). 
+2)	„Nepravá retroaktivita spoèívá v tom, e právní vztahy hmotného i 
+procesního práva, které vznikly za platnosti práva starého, se spravují zásadnì 
+tímto právem, a to a do doby úèinnosti práva nového; po jeho úèinnosti se však 
+øídí právem novım. Tato zásada však platí jen potud, pokud ostatní závìreèná 
+ustanovení právní normy nestanoví se zøetelem na zvláštnosti nìkterıch právních 
+vztahù nìco jiného. Jestlie tedy pøechodné ustanovení nepamatuje na specifické 
+øešení urèité dílèí konkrétní situace, pak je na místì dospìt k závìru, e nová 
+právní úprava ode dne své úèinnosti do budoucna upravuje i právní vztahy a 
+jednotlivé skuteènosti, které sice vznikly v minulosti, ale existují dále. 
+Retroaktivita nepravá je tedy v právní teorii i praxi povaována za 
+pøijatelnou“ (srov.  nález Ústavního soudu ze dne 12. 7. 1994, sp. zn. Pl. ÚS 
+3/94).  
+[37]	Z ustálené judikatury Nejvyššího soudu a Ústavního soudu se dále 
+podává, e: 
+1)	K definièním znakùm právního státu patøí princip právní jistoty a 
+ochrany dùvìry úèastníkù právních vztahù v právo. Souèástí právní jistoty je 
+také zákaz pravé zpìtné úèinnosti (retroaktivity) právních pøedpisù; tento 
+zákaz, kterı je pro oblast trestního práva hmotného vyjádøen v èlánku 40 odst. 
+6 Listiny základních práv a svobod, lze pro ostatní právní odvìtví dovodit z 
+èlánku 1 Ústavy (srov. Pl. ÚS 21/96, èi usnesení Nejvyššího soudu ze dne 27. 6. 
+2018, sp. zn. 22 Cdo 857/2018, a v nìm citovanou judikaturu, èi ze dne 22. 10. 
+2019, sen. zn. 29 ICdo 149/2018).
+2)	V pøípadech èasového støetu staré a nové právní normy zásadnì platí 
+nepravá retroaktivita, tj. od úèinnosti nového právního pøedpisu se i právní 
+vztahy vzniklé podle zrušeného právního pøedpisu øídí právním pøedpisem novım. 
+Vznik právních vztahù, existujících pøed nabytím úèinnosti nové právní normy, 
+právní nároky, které z tìchto vztahù vznikly, jako i vykonané právní úkony, se 
+øídí zrušenou právní normou (dùsledkem opaèné interpretace støetu právních 
+norem by byla pravá retroaktivita). Aplikuje se tady princip ochrany minulıch 
+právních skuteèností, zejména právních konání (srov. Pl. ÚS 21/96, èi shodnì 
+rozsudek Nejvyššího soudu ze dne 27. 6. 2017, sp. zn. 22 Cdo 5259/2015). 
+3)	Obecnì platí, e zatímco pravá retroaktivita je pøípustná pouze 
+vıjimeènì, v pøípadì nepravé retroaktivity je zásadou její pøípustnost (srov. 
+usnesení Nejvyššího soudu sp. zn. 22 Cdo 857/2018).
+4)	Nicménì i pøesto, e nepravá retroaktivita je obecnì pøípustná a 
+umoòuje, aby adresáti práva pøizpùsobili své jednání nové právní úpravì, mùe 
+i ona znamenat rozpor s principem ochrany dùvìry ve stabilitu právního øádu, 
+kterı se projevuje v tom, e rozhodnutí jednat, pøípadnì nejednat, které bylo 
+uèinìno s oèekáváním urèitıch následkù, se ex post (po pøijetí nové úpravy) 
+ukáe jako nesprávné, protoe se tyto následky mìní. Adresát pøíslušné právní 
+regulace by toti mohl oprávnìnì namítat, e kdyby znal tyto nové podmínky, 
+bylo by jeho rozhodnutí jiné. Nepravá retroaktivita porušuje ochranu dùvìry, 
+pokud takto pùsobící právní pøedpisy pùsobí negativní zásahy, se kterımi 
+adresáti práva nemohli nebo nemuseli poèítat nebo je nemuseli pøi svıch 
+dispozicích zohlednit. V konkrétních pøípadech je proto pøípustnost nepravé 
+retroaktivity tøeba posoudit pomìøováním kolidujících právních principù za 
+pouití principu proporcionality (srov. rozsudek Nejvyššího soudu sp. zn. 22 
+Cdo 5259/2015).
+[38]	Z dikce pøechodného ustanovení èlánku II bodu 7 novely je zøejmé, 
+e zákonodárce po zrušení stávající právní úpravy ponechal její pouití (pouze) 
+pro insolvenèní øízení zahájená pøed 1. 1. 2021. Jde-li o insolvenèní øízení 
+zahájená po 31. 12. 2020, je podle shora citovanıch pravidel èasového støetu 
+staré a nové právní normy nutné vycházet z principu nepravé retroaktivity, tj. 
+od úèinnosti nového právního pøedpisu se i právní vztahy vzniklé podle 
+zrušeného právního pøedpisu øídí právním pøedpisem novım. Tak tomu bude i 
+tehdy, pøispìl-li èlen statutárního orgánu porušením svıch povinností k úpadku 
+obchodní korporace v dobì pøed úèinností nové právní úpravy.
+[39]	 Pouití právní úpravy úèinné od 1. 1. 2021 v pomìrech projednávané 
+vìci nebrání zákaz pravé retroaktivity, jak se nesprávnì domnívaly soudy 
+niších stupòù. Nová právní úprava toti nezakládá právní následky pro 
+minulost, nıbr pouze na skutkové podstaty v minulosti vzniklé váe pro 
+budoucnost jiná práva a jiné povinnosti ne zákonodárství dosavadní. V této 
+souvislosti je nutné zmínit, e soudy zcela pominuly ustálené závìry judikatury 
+Nejvyššího soudu, podle nich tzv. „sankèní“ ruèení podle § 68 z. o. k., ve 
+znìní úèinném do 31. 12. 2020, vznikalo teprve právní mocí rozhodnutí, ve 
+kterém soud rozhodl, e èlen (nebo bıvalı èlen) statutárního orgánu obchodní 
+korporace ruèí za splnìní urèitıch (konkrétních) povinností obchodní korporace. 
+Rozhodnutí soudu o alobì podle § 68 z. o. k., ve znìní úèinném do 31. 12. 
+2020, tudí bylo konstitutivní (srovnej napø. rozsudek Nejvyššího soudu ze dne 
+26. 2. 2020, sp. zn. 27 Cdo 1319/2018, èi usnesení Nejvyššího soudu ze dne 11. 
+11. 2020, sp. zn. 27 Cdo 1169/2019).
+[40]	Jinımi slovy øeèeno, nebyl-li v dobì do 31. 12. 2020 pravomocnım 
+soudním rozhodnutím zaloen ruèitelskı závazek podle § 68 z. o. k., ve znìní 
+úèinném do 31. 12. 2020, nemùe pouití § 66 odst. 1 písm. b) z. o. k., ve 
+znìní úèinném od 1. 1. 2021, bránit zákaz pravé retroaktivity, nebo se tím 
+zpìtnì nijak nezasahuje do ji v minulosti konstituovanıch právních vztahù (k 
+tomu srov. obdobné závìry v rozsudku Nejvyššího soudu ze dne 24. 8. 2020, sp. 
+zn. 27 Cdo 1916/2019, odst. 27. a 28. odùvodnìní).
+[41]	Pouití nové právní úpravy podle pøesvìdèení Nejvyššího soudu 
+nebrání ani skuteènost, e dosavadní institut (soudním rozhodnutím zaloeného) 
+ruèení zákon nahradil alobou na doplnìní pasiv. Jak uvádí dùvodová zpráva, 
+úèelem novì zavádìné aloby na doplnìní pasiv je (shodnì se stávající úpravou 
+ruèení úèinnou od 1. 1. 2014) poskytnout vìøitelùm obchodní korporace dodateèné 
+prostøedky na uspokojení jejich pohledávek, kterého se jim v dùsledku porušení 
+povinností èleny statutárního orgánu nedostává z majetku obchodní korporace. I 
+kdy právní postavení ruèitele není shodné s právním postavením dluníka, které 
+zakládá nová právní úprava, nejsou tyto rozdíly pro dosaení úèelu právní 
+úpravy vıznamné. I za úèinnosti stávající právní úpravy toti èlenové 
+statutárního orgánu obchodní korporace èelili hrozbì uloení povinnosti splnit 
+dluhy obchodní korporace v pøípadì, e v rozporu s péèí øádného hospodáøe 
+neuèinili za úèelem odvrácení hrozícího úpadku vše potøebné a rozumnì 
+pøedpokladatelné. Èlenové statutárního orgánu obchodní korporace jako adresáti 
+práva tak i za úèinnosti stávající právní úpravy museli poèítat s negativními 
+dùsledky svého protiprávního jednání majícími podobu majetkoprávních sankcí v 
+pøípadì úpadku obchodní korporace.  
+[42]	Lze proto uzavøít, e pouití § 66 odst. 1 písm. b) z. o. k. v 
+pøípadech jednání èlenù statutárního orgánu obchodní korporace uskuteènìnıch v 
+dobì od 1. 1. 2014 do 31. 12. 2020 v insolvenèním øízení zahájeném po 31. 12. 
+2020 je projevem obecnì pøípustné nepravé retroaktivity a neporušuje princip 
+ochrany dùvìry adresátù právní regulace ve stabilitu právního øádu.            
+[43]	Jeliko øešení dovoláním otevøené otázky, na ní napadené 
+rozhodnutí spoèívá, není správné a dovolací dùvod podle § 241a odst. 1 o. s. ø. 
+byl uplatnìn právem, Nejvyšší soud, ani ve vìci naøizoval jednání (§ 243a 
+odst. 1 vìta první o. s. ø.) a ani se pro nadbyteènost zabıval dalšími 
+námitkami uvedenımi v dovolání, rozsudek odvolacího soudu zrušil (§ 243e odst. 
+1 o. s. ø.). Dùvody, pro které nemohlo obstát rozhodnutí odvolacího soudu, 
+dopadají i na rozhodnutí insolvenèního soudu; Nejvyšší soud proto zrušil i je a 
+vìc vrátil insolvenènímu soudu k dalšímu øízení (§ 243e odst. 2 vìta druhá o. 
+s. ø.).
+[44]	Právní názor Nejvyššího soudu je pro soudy niších stupòù závaznı 
+(§ 243g odst. 1 èást vìty první za støedníkem, § 226 odst. 1 o. s. ø.).
+[45]	V novém rozhodnutí insolvenèní soud znovu rozhodne i o nákladech 
+øízení, vèetnì øízení dovolacího (§ 243g odst. 1 vìta druhá o. s. ø.).
+Pouèení: Toto rozhodnutí se povauje za doruèené okamikem zveøejnìní v 
+insolvenèním rejstøíku; úèastníkùm incidenèního sporu se však doruèuje i 
+zvláštním zpùsobem. 
+Proti tomuto rozhodnutí není pøípustnı opravnı prostøedek.
+
+
+V Brnì dne 22. 7. 2026
+
+
+	JUDr. Marek Doleal
+	pøedseda senátu
+
+
